@@ -15,6 +15,12 @@ O PostGIS é uma extensão espacial gratuita e de código fonte livre. Sua const
 ## ![etl](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/etl.png)
 Processo de Extração(extraction), Transformação(Transform) e Carregamento(Load) utilizado para combinar dados de diferentes fontes.
 
+## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)
+...
+
+## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
+...
+
 ## ![time](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/time.png)
 * [Euclides Rezende](https://www.linkedin.com/in/euclides-rezende-0940458/) - Product Owner
 * [Natalia Biscaro](https://www.linkedin.com/in/nataliabiscaro/?originalSubdomain=br) - Scrum Master
