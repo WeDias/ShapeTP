@@ -10,7 +10,7 @@ Desenvolver uma aplicação web "mini-ETL" que converta arquivos em formato Shap
 É um formato de arquivo usado para armazenar dados geoespaciais em forma de vetor, utilizado por sistemas de informações geograficas, conhecidos como SIG. Descrevem geometrias: pontos, linhas e poligonos. Possui extenção .shp, .shx ou .dbf.
 
 ### PostGis
-Sistema capaz de armazenar informações geoespaciais.
+O PostGIS é uma extensão espacial gratuita e de código fonte livre. Sua construção é feita sobre o PostgreSQL, que permite o uso de objetos GIS (Sistemas de Informação Geográfica) ser armazenado em banco de dados
 
 ### Mini-ETL
 Processo de Extração(extraction), Transformação(Transform) e Carregamento(Load) utilizado para combinar dados de diferentes fontes.
