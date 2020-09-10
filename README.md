@@ -19,7 +19,15 @@ Processo de Extração(extraction), Transformação(Transform) e Carregamento(Lo
 ...
 
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
-...
+* [backlog](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
+
+* [Termo de abertura de projeto](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/TermoDeAberturaDeProjeto.pdf)
+
+* [Escopo](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DeclaracaoDeEscopo.pdf)
+
+* [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Diagrama%20de%20caso%20de%20uso.pdf)
+
+* [User Story](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/User_story.pdf)
 
 ## ![time](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/time.png)
 * [Euclides Rezende](https://www.linkedin.com/in/euclides-rezende-0940458/) - Product Owner
