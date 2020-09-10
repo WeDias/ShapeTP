@@ -3,7 +3,7 @@
 ## ![fatec](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/fatec0.png)
 Projeto fruto de uma parceria entre a Fatec São José dos Campos - Jessen Vidal e uma Empresa, que visa dar aos alunos a experiência de trabalhar com uma Empresa e um caso real, desenvolvendo um software que resolva um problema proposto.
 
-## Objetivo
+## ![Obj](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Obj0.png)
 Desenvolver uma aplicação web "mini-ETL" que converta arquivos em formato Shapefile para banco de dados PostgreSQL/PostGIS e que faça tambem o caminho inverso, ou seja buscar no banco de dados e devolver ao usuario um arquivo shapefile. Atualmente, é utilizado uma aplicação paga para tal operação, dai a necessidade e reduzir custos com um "mini-ETL" personalizado, que seja pensado para as necessidades especificas desta empresa.
 
 ## Shapefile
