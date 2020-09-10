@@ -1,6 +1,6 @@
 # ![logo](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/logo.png)
 
-## Projeto Integrador - Fatec São José dos Campos
+## ![fatec](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/fatec.png)
 Projeto fruto de uma parceria entre a Fatec São José dos Campos - Jessen Vidal e uma Empresa, que visa dar aos alunos a experiência de trabalhar com uma Empresa e um caso real, desenvolvendo um software que resolva um problema proposto.
 
 ## Objetivo
