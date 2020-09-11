@@ -7,7 +7,7 @@ Projeto fruto de uma parceria entre a Fatec São José dos Campos - Jessen Vidal
 Desenvolver uma aplicação web "mini-ETL" que converta arquivos em formato Shapefile para banco de dados PostgreSQL/PostGIS e que faça tambem o caminho inverso, ou seja buscar no banco de dados e devolver ao usuario um arquivo shapefile. Atualmente, é utilizado uma aplicação paga para tal operação, dai a necessidade e reduzir custos com um "mini-ETL" personalizado, que seja pensado para as necessidades especificas desta empresa.
 
 ## ![shp](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/shp.png)
-É um formato de arquivo usado para armazenar dados geoespaciais em forma de vetor, utilizado por sistemas de informações geograficas, conhecidos como SIG. Descrevem geometrias: pontos, linhas e poligonos. Possui extenção .shp, .shx ou .dbf.
+É um formato de arquivo usado para armazenar dados geoespaciais em forma de vetor, utilizado por sistemas de informações geograficas, conhecidos como SIG. Descrevem geometrias: pontos, linhas e poligonos. 
 
 ## ![post](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Post.png)
 O PostGIS é uma extensão espacial gratuita e de código fonte livre. Sua construção é feita sobre o PostgreSQL, que permite o uso de objetos GIS (Sistemas de Informação Geográfica) ser armazenado em banco de dados
