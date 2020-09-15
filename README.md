@@ -49,12 +49,12 @@ Obs.: CSS/HTML/Javascript gerados automaticamente pela ferramenta apenas para pe
 ### Diagrama de caso de uso
 ![diagrama](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Diagrama%20de%20caso%20de%20uso.png)  
 
-
-
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
 * [User Story](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/User_story.pdf)
-* [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Diagrama%20de%20caso%20de%20uso.pdf)
+* [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Diagrama%20de%20caso%20de%20uso.pdf)  
+
+###### Gestão de projetos
 * [Termo de abertura de projeto](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/TermoDeAberturaDeProjeto.pdf)
 * [Declaracao de escopo](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DeclaracaoDeEscopo.pdf)
 * [Dicionário EAP](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DicionarioEAP.pdf)
