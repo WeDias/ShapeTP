@@ -46,12 +46,20 @@ Os conversores foram desenvolvidos em Java integrando com as próprias ferrament
 já existentes da extensão PostGIS do banco de dados PostgreSQL.  
 Obs.: CSS/HTML/Javascript gerados automaticamente pela ferramenta apenas para personalização do site.
 
+### Diagrama de caso de uso
+![diagrama](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Diagrama%20de%20caso%20de%20uso.png)  
+
+
+
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
-* [Termo de abertura de projeto](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/TermoDeAberturaDeProjeto.pdf)
-* [Escopo](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DeclaracaoDeEscopo.pdf)
-* [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Diagrama%20de%20caso%20de%20uso.pdf)
 * [User Story](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/User_story.pdf)
+* [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Diagrama%20de%20caso%20de%20uso.pdf)
+* [Termo de abertura de projeto](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/TermoDeAberturaDeProjeto.pdf)
+* [Declaracao de escopo](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DeclaracaoDeEscopo.pdf)
+* [Dicionário EAP](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DicionarioEAP.pdf)
+* [Cronograma](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Cronograma.pdf)
+* [Plano de gerenciamento de cronograma](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Plano%20de%20gerenciamento%20de%20cronograma.pdf)
 
 ## ![time](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/time.png)
 * [Euclides Rezende](https://www.linkedin.com/in/euclides-rezende-0940458/) - Product Owner
