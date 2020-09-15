@@ -13,13 +13,13 @@ Desenvolver uma aplicação web "mini-ETL" que converta arquivos em formato Shap
 O PostGIS é uma extensão espacial gratuita e de código fonte livre. Sua construção é feita sobre o PostgreSQL, que permite o uso de objetos GIS (Sistemas de Informação Geográfica) ser armazenado em banco de dados
 
 ## ![etl](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/etl.png)
-Processo de Extração(extraction), Transformação(Transform) e Carregamento(Load) utilizado para combinar dados de diferentes fontes.
+Processo de Extração(Extraction), Transformação(Transform) e Carregamento(Load) utilizado para combinar dados de diferentes fontes.
 
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)
 ...
 
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
-* [backlog](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
+* [Backlog](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
 * [Termo de abertura de projeto](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/TermoDeAberturaDeProjeto.pdf)
 * [Escopo](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DeclaracaoDeEscopo.pdf)
 * [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Diagrama%20de%20caso%20de%20uso.pdf)
