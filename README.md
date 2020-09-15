@@ -17,10 +17,34 @@ Processo de Extração(Extraction), Transformação(Transform) e Carregamento(Lo
 
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)
 GIF demonstrando o funcionamento da solução desenvolvida. Clique nas imagens para visualizar com o tamanho original.
+
 ### Convertendo Shapefile para PostgreSQL/PostGIS
-![ShapeToPost](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/ShapeToPost.gif)
+![ShapeToPost](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/ShapeToPost.gif)  
+O GIF acima mostra a conversão de Shapefile para PostgreSQL/PostGIS em uma aplicação WEB local,
+na parte esquerda do GIF se encontra a aplicação WEB onde o usário interage solicitando a conversão,
+em seguida aparece uma tela onde o usuário escolhe quais Shapefiles ele deseja converter para o banco de dados,
+após a seleção o processo é iniciado, finalizando é mostrado uma imagem ao usuário de sucesso, caso a operação seja
+bem sucedida, caso contrário retorna uma imagem de erro. No lado direito do GIF é mostrado o banco de dados demonstrando
+que a conversão realmente foi bem sucedida, criando novas tabelas a partir dos arquivos Shapefile. Após todo este processo
+é aberto pelo usuário a ferramenta QGIS para visualizar os dados armazenados nas tabelas após o processo de conversão para demonstrar, também,
+que a conversão foi bem sucedida.
+
 ### Convertendo PostgreSQL/PostGIS para Shapefile
 ![PostToShape](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/PostToShape.gif)
+O GIF acima mostra a conversão de PostgreSQL/PostGIS para Shapefile em uma aplicação WEB local,
+na parte esquerda do GIF se encontra a aplicação WEB onde o usário interage selecionando uma tabela e solicitando a conversão,
+em seguida aparece uma tela onde o usuário escolhe onde deseja salvar os arquivos convertidos e o nome deles. Na parte inferior da
+direita e mostrado o local onde o usuário escolheu para salvar os arquivos. No canto superior da direita é mostrado o banco de dados
+com as tabelas disponíveis. Após converter as tabelas desejadas o usuário abre a ferramenta QGIS para visualizar o resultado da
+conversão.
+
+### Desenvolvimento
+A aplicação WEB foi desenvolvida utilizando Java WEB e Apache Tomcat. 
+Para o código HTML, CSS e Javascript foi utilizando a ferramenta Nicepage
+para desenvolver uma interface amigável de forma simples e rápida.
+Os conversores foram desenvolvidos em Java integrando com as próprias ferramentas de conversão
+já existentes da extensão PostGIS do banco de dados PostgreSQL.  
+Obs.: CSS/HTML/Javascript gerados automáticamente pela ferramenta apenas para personalização do site.
 
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
