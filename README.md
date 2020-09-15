@@ -44,7 +44,7 @@ Para o código HTML, CSS e Javascript foi utilizando a ferramenta Nicepage
 para desenvolver uma interface amigável de forma simples e rápida.
 Os conversores foram desenvolvidos em Java integrando com as próprias ferramentas de conversão
 já existentes da extensão PostGIS do banco de dados PostgreSQL.  
-Obs.: CSS/HTML/Javascript gerados automáticamente pela ferramenta apenas para personalização do site.
+Obs.: CSS/HTML/Javascript gerados automaticamente pela ferramenta apenas para personalização do site.
 
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
