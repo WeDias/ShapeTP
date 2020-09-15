@@ -16,6 +16,7 @@ O PostGIS é uma extensão espacial gratuita e de código fonte livre. Sua const
 Processo de Extração(Extraction), Transformação(Transform) e Carregamento(Load) utilizado para combinar dados de diferentes fontes.
 
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)
+GIF demonstrando o funcionamento da solução desenvolvida. Clique nas imagens para visualizar com o tamanho original.
 ### Convertendo Shapefile para PostgreSQL/PostGIS
 ![ShapeToPost](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/ShapeToPost.gif)
 ### Convertendo PostgreSQL/PostGIS para Shapefile
