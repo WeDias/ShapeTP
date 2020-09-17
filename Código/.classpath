@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ShapeTP/src/java"/>
+	<classpathentry kind="lib" path="ShapeTP/build/web/WEB-INF/lib/postgresql-42.2.16.jar"/>
+	<classpathentry kind="output" path="ShapeTP/build/web/WEB-INF/classes"/>
+</classpath>
