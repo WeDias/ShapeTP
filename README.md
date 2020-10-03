@@ -11,6 +11,9 @@ GIF demonstrando o funcionamento da solução desenvolvida. Clique nas imagens p
 ###### Gestão de projetos
 * [Checklist](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Checklist.pdf)
 
+###### Entregas anteriores
+* [Entrega 1](https://github.com/WeDias/ShapeTP/tree/Entrega1)
+
 ## ![time](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/time.png)
 * [Euclides Rezende](https://www.linkedin.com/in/euclides-rezende-0940458/) - Product Owner
 * [Natalia Biscaro](https://www.linkedin.com/in/nataliabiscaro/?originalSubdomain=br) - Scrum Master
