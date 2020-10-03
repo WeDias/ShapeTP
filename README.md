@@ -1,6 +1,17 @@
 # ![logo](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/logo.png)
 
-## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)
+## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)  
+
+#### Realizações da entrega 2
+* Recriação do site usando ferramenta open source
+* Melhoria da interface para suportar a ferramenta de Mini-ETL
+* Ferramenta para carregar dados shapefile em tabelas existente do postgre funcional (não implementado na web ainda)
+* Novas documentações
+* Atualização da documentação antiga
+* Reorganização do GitHub
+* Estilização das Tabs
+* Mudança de colorização dos elementos
+
 GIF demonstrando o funcionamento da solução desenvolvida. Clique nas imagens para visualizar com o tamanho original.
 ![ShpToPost](https://github.com/WeDias/ShapeTP/blob/Entrega2/Ignorar/Img/ShpToPost.png)
 A imagem acima mostra a parte web para interação com o usuário da ferramenta Mini-ETL, na qual o usuário escolhe uma tabela do banco de dados, um shapefile, e logo em seguida, aparecerá os campos da tabela selecionada. O usuário escolhe o campo correspondente que virá do shapefile para carregar no campo alvo da tabela, e por fim, clica em carregar para iniciar o processo de extrair, transformar e carregar os dados do shapefile para a tabela do banco de dados.
