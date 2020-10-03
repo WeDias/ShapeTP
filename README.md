@@ -10,11 +10,10 @@
 * Atualização da documentação antiga
 * Reorganização do GitHub
 * Estilização das Tabs
-* Mudança de colorização dos elementos
+* Mudança de colorização dos elementos  
 
-GIF demonstrando o funcionamento da solução desenvolvida. Clique nas imagens para visualizar com o tamanho original.
 ![ShapeToPost](https://github.com/WeDias/ShapeTP/blob/Entrega2/Ignorar/Img/ShapeToPost.png)
-A imagem acima mostra a parte web para interação com o usuário da ferramenta Mini-ETL, na qual o usuário escolhe uma tabela do banco de dados, um shapefile, e logo em seguida, aparecerá os campos da tabela selecionada. O usuário escolhe o campo correspondente que virá do shapefile para carregar no campo alvo da tabela, e por fim, clica em carregar para iniciar o processo de extrair, transformar e carregar os dados do shapefile para a tabela do banco de dados.
+A imagem acima mostra a parte web para interação com o usuário da ferramenta Mini-ETL, na qual o usuário escolhe uma tabela do banco de dados, um shapefile, e logo em seguida, aparecerá os campos da tabela selecionada. O usuário escolhe o campo correspondente que virá do shapefile para carregar no campo alvo da tabela, e por fim, clica em carregar para iniciar o processo de extrair, transformar e carregar os dados do shapefile para a tabela do banco de dados.  
 
 ![PostToShape](https://github.com/WeDias/ShapeTP/blob/Entrega1/Ignorar/Img/PostToShape.gif)
 O GIF acima mostra a conversão de PostgreSQL/PostGIS para Shapefile em uma aplicação WEB local, na parte esquerda do GIF se encontra a aplicação WEB onde o usuário interage selecionando uma tabela e solicitando a conversão, em seguida aparece uma tela onde o usuário escolhe onde deseja salvar os arquivos convertidos e o nome deles. Na parte inferior da direita e mostrado o local onde o usuário escolheu para salvar os arquivos. No canto superior da direita é mostrado o banco de dados com as tabelas disponíveis. Após converter as tabelas desejadas o usuário abre a ferramenta QGIS para visualizar o resultado da conversão.
