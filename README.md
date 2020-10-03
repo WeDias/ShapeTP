@@ -2,6 +2,7 @@
 
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)
 GIF demonstrando o funcionamento da solução desenvolvida. Clique nas imagens para visualizar com o tamanho original.
+![ShpToPost](https://github.com/WeDias/ShapeTP/blob/Entrega2/Ignorar/Img/ShpToPost.png)
 
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
 ###### ShapeTP
