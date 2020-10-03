@@ -5,6 +5,7 @@
 #### Realizações da entrega 2
 * Ferramenta para carregar shapefile em uma tabela existente do postgre funcional (não implementado na web ainda)
 * Desenvolvimento da ferramenta de parametrização (apenas visual... por enquanto)
+* Desenvolvimento da função que retorna o nome e os tipos dos campos da tabela
 * Recriação do site usando ferramenta open source
 * Novas documentações
 * Atualização da documentação antiga
@@ -15,8 +16,8 @@
 ![ShapeToPost](https://github.com/WeDias/ShapeTP/blob/Entrega2/Ignorar/Img/ShapeToPost.png)
 A imagem acima mostra a parte web para interação com o usuário da ferramenta Mini-ETL, na qual o usuário escolhe uma tabela do banco de dados, um shapefile, e logo em seguida, aparecerá os campos da tabela selecionada. O usuário escolhe o campo correspondente que virá do shapefile para carregar no campo alvo da tabela, e por fim, clica em carregar para iniciar o processo de extrair, transformar e carregar os dados do shapefile para a tabela do banco de dados.  
 
-![PostToShape](https://github.com/WeDias/ShapeTP/blob/Entrega1/Ignorar/Img/PostToShape.gif)
-O GIF acima mostra a conversão de PostgreSQL/PostGIS para Shapefile em uma aplicação WEB local, na parte esquerda do GIF se encontra a aplicação WEB onde o usuário interage selecionando uma tabela e solicitando a conversão, em seguida aparece uma tela onde o usuário escolhe onde deseja salvar os arquivos convertidos e o nome deles. Na parte inferior da direita e mostrado o local onde o usuário escolheu para salvar os arquivos. No canto superior da direita é mostrado o banco de dados com as tabelas disponíveis. Após converter as tabelas desejadas o usuário abre a ferramenta QGIS para visualizar o resultado da conversão.
+![PostToShape1](https://github.com/WeDias/ShapeTP/blob/Entrega2/Ignorar/Img/PostToShape1.gif)
+O GIF acima mostra a conversão de PostgreSQL/PostGIS para Shapefile em uma aplicação WEB local, na parte esquerda do GIF se encontra a aplicação WEB onde o usuário interage selecionando uma tabela e solicitando a conversão, em seguida aparece uma tela onde o usuário escolhe onde deseja salvar os arquivos convertidos e o nome deles. No canto direito da tela temos os arquivos sendo gerados e gravados na pasta escolhida pelo usuário. Após converter as tabelas desejadas o usuário abre a ferramenta QGIS para visualizar o resultado da conversão.
 
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
 ###### ShapeTP
