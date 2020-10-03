@@ -6,14 +6,10 @@ Projeto fruto de uma parceria entre a Fatec São José dos Campos - Jessen Vidal
 ## ![Obj](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Obj1.png)
 Desenvolver uma aplicação web "mini-ETL" que converta arquivos em formato Shapefile para banco de dados PostgreSQL/PostGIS e que faça tambem o caminho inverso, ou seja buscar no banco de dados e devolver ao usuario um arquivo shapefile. Atualmente, é utilizado uma aplicação paga para tal operação, dai a necessidade e reduzir custos com um "mini-ETL" personalizado, que seja pensado para as necessidades especificas desta empresa.
 
-## ![shp](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/shp.png)
-É um formato de arquivo usado para armazenar dados geoespaciais em forma de vetor, utilizado por sistemas de informações geograficas, conhecidos como SIG. Descrevem geometrias: pontos, linhas e poligonos. 
-
-## ![post](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Post.png)
-O PostGIS é uma extensão espacial gratuita e de código fonte livre. Sua construção é feita sobre o PostgreSQL, que permite o uso de objetos GIS (Sistemas de Informação Geográfica) ser armazenado em banco de dados
-
-## ![etl](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/etl.png)
-Processo de Extração(Extraction), Transformação(Transform) e Carregamento(Load) utilizado para combinar dados de diferentes fontes.
+## ![entregas](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/entregas.png)
+###### Links para cada entrega
+* [Entrega 1](https://github.com/WeDias/ShapeTP/tree/Entrega1)
+* [Entrega 2](https://github.com/WeDias/ShapeTP/tree/Entrega2)
 
 ## ![time](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/time.png)
 * [Euclides Rezende](https://www.linkedin.com/in/euclides-rezende-0940458/) - Product Owner
