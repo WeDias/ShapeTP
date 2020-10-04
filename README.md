@@ -27,7 +27,7 @@ O GIF acima mostra a conversão de PostgreSQL/PostGIS para Shapefile em uma apli
 
 ###### Gestão de projetos
 * [Checklist](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Checklist.pdf)
-* [Planejamento de custo]()
+* [Planejamento de custo](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Planejamento%20de%20custos.pdf)
 * [Gráfico BurnDown](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Burndown.pdf)
 
 ###### Entregas anteriores
