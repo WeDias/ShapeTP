@@ -23,6 +23,7 @@ O GIF acima mostra a conversão de PostgreSQL/PostGIS para Shapefile em uma apli
 ###### ShapeTP
 * [Código fonte](https://github.com/WeDias/ShapeTP/tree/Entrega2/C%C3%B3digo/ShapeTP)
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Backlog.pdf)
+* [Cronograma](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Cronograma.pdf)
 
 ###### Gestão de projetos
 * [Checklist](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Checklist.pdf)
