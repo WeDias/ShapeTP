@@ -3,8 +3,8 @@
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)  
 
 #### Realizações da entrega 2
-* Ferramenta para carregar shapefile em uma tabela existente do postgre funcional (não implementado na web ainda)
-* Desenvolvimento da ferramenta de parametrização (apenas visual... por enquanto)
+* Ferramenta para carregar shapefile em uma tabela existente do postgre funcional (ainda não implmentado)
+* Desenvolvimento da ferramenta de parametrização (apenas visual, por enquanto)
 * Desenvolvimento da função que retorna o nome e os tipos dos campos da tabela
 * Recriação do site usando ferramenta open source
 * Novas documentações
