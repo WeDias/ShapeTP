@@ -43,13 +43,13 @@ Obs.: CSS/HTML/Javascript gerados automaticamente pela ferramenta apenas para pe
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
 * [User Story](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/User_story.pdf)
 * [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Diagrama%20de%20caso%20de%20uso.pdf)  
+* [Cards da sprint 01](https://github.com/WeDias/ShapeTP/blob/Entrega1/Documenta%C3%A7%C3%A3o/Sprint01.png)
 ###### Gestão de projetos
 * [Termo de abertura de projeto](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/TermoDeAberturaDeProjeto.pdf)
 * [Declaracao de escopo](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DeclaracaoDeEscopo.pdf)
 * [Dicionário EAP](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/DicionarioEAP.pdf)
 * [Cronograma](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Cronograma.pdf)
 * [Plano de gerenciamento de cronograma](https://github.com/WeDias/ShapeTP/blob/master/Documenta%C3%A7%C3%A3o/Plano%20de%20gerenciamento%20de%20cronograma.pdf)
-* [Cards da sprint 01](https://github.com/WeDias/ShapeTP/blob/Entrega1/Documenta%C3%A7%C3%A3o/Sprint01.png)
 
 ## ![time](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/time.png)
 * [Euclides Rezende](https://www.linkedin.com/in/euclides-rezende-0940458/) - Product Owner
