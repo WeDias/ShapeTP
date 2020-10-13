@@ -24,7 +24,7 @@ public class ToConvert {
         System.out.printf("Op: Shapefile to PostgreSQL\nFile: %s\n", pathFile);
         Path path = Paths.get(pathFile);
         String fileName = path.getFileName().toString().replace(".shp", "");
-        String temp = "shp2pgsql -d -D -s 0 %s fatecsjc.%s | psql -h localhost -d postgis -U postgres";
+        String temp = "shp2pgsql -d -D -s 0 %s fatecsjc.temp_%s | psql -h localhost -d postgis -U postgres";
         String command = String.format(temp, pathFile, fileName);
         run(command);
     }

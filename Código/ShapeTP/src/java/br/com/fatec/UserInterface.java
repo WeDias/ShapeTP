@@ -11,21 +11,23 @@ public class UserInterface {
     private static ToConvert conv = new ToConvert();
     private static DataBase dataBase;
     
-    public static int optionS(String acao) throws ClassNotFoundException, SQLException, IOException{
+    public static String optionS(String acao) throws ClassNotFoundException, SQLException, IOException{
         if(acao != null){
+            String name = "";
             FileDialog fd = new FileDialog((Frame) null, "Selecionar Shapefile", FileDialog.LOAD);
             fd.setMultipleMode(true);
             fd.setFile("*.shp");
             fd.setVisible(true);
             if(fd.getFile() != null){
                 for(File selected: fd.getFiles()){
+                   name = selected.getName();
                    conv.shpToPost(selected.getAbsolutePath());
                 }
-                return 1;
+                return name.replace(".shp", "").toLowerCase();
             }
-            return 0;
+            return "false";
         }
-        return -1;
+        return null;
     }
     
     public static void optionP(String acao) throws ClassNotFoundException, SQLException, IOException{
@@ -44,4 +46,15 @@ public class UserInterface {
         dataBase = new DataBase();
         return dataBase.getTables();
     }
+    
+    public static ArrayList<ArrayList> columns(String tableName) throws ClassNotFoundException, SQLException {
+        dataBase = new DataBase();
+        return dataBase.getColumns(tableName);
+    }
+    
+    public static void insert(String t, String tCol, String sCol, String s) throws ClassNotFoundException, SQLException{
+        dataBase = new DataBase();
+        dataBase.insertInto(t, tCol, sCol, s);
+    }
+    
 }
