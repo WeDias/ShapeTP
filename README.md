@@ -2,6 +2,10 @@
 
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)  
 
+### Realizado nesta Sprint
+![cards](https://github.com/WeDias/ShapeTP/blob/Entrega2/Ignorar/Img/cards.png)
+
+### Funcionamento da solução
 ![ShapeToPost](https://github.com/WeDias/ShapeTP/blob/Entrega2/Ignorar/Img/Shp2Post.gif)
 A imagem acima mostra a parte web para interação com o usuário da ferramenta Mini-ETL, na qual o usuário escolhe uma tabela do banco de dados, um shapefile, e logo em seguida, aparecerá os campos da tabela selecionada. O usuário escolhe o campo correspondente que virá do shapefile para carregar no campo alvo da tabela, e por fim, clica em carregar para iniciar o processo de extrair, transformar e carregar os dados do shapefile para a tabela do banco de dados.  
 
@@ -12,13 +16,16 @@ O GIF acima mostra a conversão de PostgreSQL/PostGIS para Shapefile em uma apli
 ###### ShapeTP
 * [Código fonte](https://github.com/WeDias/ShapeTP/tree/Entrega2/C%C3%B3digo/ShapeTP)
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Backlog.pdf)
-* [Cards da sprint 02](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Sprint02.png)
+* [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/User%20Story.pdf)
+* [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/UseCase.pdf)
 
 ###### Gestão de projetos
 * [Checklist](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Checklist.pdf)
 * [Cronograma](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Cronograma.pdf)
 * [Planejamento de custo](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Planejamento%20de%20custos.pdf)
 * [Gráfico BurnDown](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Burndown.pdf)
+* [Matriz RACI](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Matriz%20RACI.pdf)
+* [Matriz de comunicação](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Matriz%20de%20comunica%C3%A7%C3%A3o.pdf)
 
 ###### Entregas anteriores
 * [Entrega 1](https://github.com/WeDias/ShapeTP/tree/Entrega1)
