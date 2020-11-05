@@ -2,13 +2,6 @@
 
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)  
 
-### Realizado nesta Sprint
-
-### Funcionamento da solução
-
-A imagem acima mostra a parte web para interação com o usuário da ferramenta Mini-ETL, na qual o usuário escolhe uma tabela do banco de dados, um shapefile, e logo em seguida, aparecerá os campos da tabela selecionada. O usuário escolhe o campo correspondente que virá do shapefile para carregar no campo alvo da tabela, e por fim, clica em carregar para iniciar o processo de extrair, transformar e carregar os dados do shapefile para a tabela do banco de dados.  
-
-O GIF acima mostra a conversão de PostgreSQL/PostGIS para Shapefile em uma aplicação WEB local, onde o usuário interage selecionando uma tabela e solicitando a conversão, em seguida aparece uma tela onde o usuário escolhe onde deseja salvar os arquivos convertidos e o nome deles. Após converter a tabela desejada o usuário abre a ferramenta QGIS para visualizar o resultado da conversão.  
 
 ### Tecnologias usadas
 * Java
