@@ -14,7 +14,7 @@
 ###### ShapeTP
 * [Código fonte](https://github.com/WeDias/ShapeTP/tree/Entrega2/C%C3%B3digo/ShapeTP)
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Backlog.pdf)
-* [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/User%20Story.pdf)
+* [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/User%20Story.png)
 * [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/UseCase.pdf)
 
 ###### Entregas anteriores
