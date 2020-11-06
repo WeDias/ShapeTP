@@ -17,16 +17,9 @@
 * [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/User%20Story.pdf)
 * [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/UseCase.pdf)
 
-###### Gestão de projetos
-* [Checklist](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Checklist.pdf)
-* [Cronograma](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Cronograma.pdf)
-* [Planejamento de custo](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Planejamento%20de%20custos.pdf)
-* [Gráfico BurnDown](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Burndown.pdf)
-* [Matriz RACI](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Matriz%20RACI.pdf)
-* [Matriz de comunicação](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/Matriz%20de%20comunica%C3%A7%C3%A3o.pdf)
-
 ###### Entregas anteriores
 * [Entrega 1](https://github.com/WeDias/ShapeTP/tree/Entrega1)
+* [Entrega 2](https://github.com/WeDias/ShapeTP/tree/Entrega2)
 
 ## ![time](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/time.png)
 * [Euclides Rezende](https://www.linkedin.com/in/euclides-rezende-0940458/) - Product Owner
