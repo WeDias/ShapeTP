@@ -34,9 +34,6 @@ Os conversores foram desenvolvidos em Java integrando com as próprias ferrament
 já existentes da extensão PostGIS do banco de dados PostgreSQL.  
 Obs.: CSS/HTML/Javascript gerados automaticamente pela ferramenta apenas para personalização do site.
 
-### Diagrama de caso de uso
-![diagrama](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Diagrama%20de%20caso%20de%20uso.png)  
-
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
 ###### ShapeTP
 * [Código fonte](https://github.com/WeDias/ShapeTP/tree/master/C%C3%B3digo/ShapeTP)
