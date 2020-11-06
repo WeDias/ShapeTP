@@ -4,7 +4,7 @@
 Projeto fruto de uma parceria entre a Fatec São José dos Campos - Jessen Vidal e uma Empresa, que visa dar aos alunos a experiência de trabalhar com uma Empresa e um caso real, desenvolvendo um software que resolva um problema proposto.
 
 ## ![Obj](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Obj1.png)
-Desenvolver uma aplicação web local "mini-ETL" que converta arquivos em formato Shapefile para uma tabela existente do banco de dados PostgreSQL/PostGIS e que faça tambem o caminho inverso, ou seja buscar no banco de dados e devolver ao usuario um arquivo shapefile. Atualmente, é utilizado uma aplicação paga para tal operação, portanto a necessidade de reduzir custos com um "mini-ETL" open source, que seja pensado para as necessidades especificas desta empresa.
+Desenvolver uma aplicação web local "mini-ETL" que converta arquivos em formato Shapefile para uma tabela existente do banco de dados PostgreSQL/PostGIS e que faça também o caminho inverso, ou seja buscar no banco de dados e devolver ao usuário um arquivo Shapefile. Atualmente, é utilizado uma aplicação paga para tal operação, portanto a necessidade de reduzir custos com um "mini-ETL" open source, que seja pensado para as necessidades especificas desta empresa.
 
 ## ![entregas](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/entregas.png)
 ###### Links para cada entrega
