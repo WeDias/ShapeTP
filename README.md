@@ -1,6 +1,6 @@
 # ![logo](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/logo.png)
 
-## ![solu](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Solu.png)  
+## ![solu](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/Solu.png)  
 
 
 ### Tecnologias usadas
