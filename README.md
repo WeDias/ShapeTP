@@ -3,7 +3,7 @@
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/Solu.png)
 
 ### Realizado nesta sprint
-![cards](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/cards.png)  
+![cards](https://github.com/WeDias/ShapeTP/blob/Entrega3/AMOSTRAS.md)  
 De forma geral, nesta sprint o foco foi em melhorar a interface gráfica e organizar mais o código fonte.
 Com relação a interface foi adicionada tela de carregamento e a remoção da tela branca ao processar os arquivos, 
 gerados depois da adição da parametrização, na entrega2.  
