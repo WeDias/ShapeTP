@@ -1,4 +1,5 @@
 # Funcionamento do programa
+Clique ou baixe as imagens para melhorar a qualidade de visualização.
 
 ### Shapefile para PostgreSQL/PostGIS (Ponto)
 ![ponto](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/ShapeToPost/ponto.gif)  
