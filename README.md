@@ -1,8 +1,15 @@
 # ![logo](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/logo.png)
 
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/Solu.png)
-**A seguir será apresentado duas amostras do funcionamento do programa,
-para visualizar todos os GIFs de exucação para cada tipo de geometria e operação (Carga e Recuperação) [clique aqui](https://github.com/WeDias/ShapeTP/edit/Entrega3/AMOSTRAS.md).**
+
+### Realizado nesta sprint
+![cards](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/cards.png)  
+De forma geral, nesta sprint o foco foi em melhorar a interface gráfica e organizar mais o código fonte.
+Com relação a interface foi adicionada tela de carregamento e a remoção da tela branca ao processar os arquivos, 
+gerados depois da adição da parametrização, na entrega2.  
+
+A seguir será apresentado duas amostras do funcionamento do programa,
+para visualizar todos os GIFs de exucação para cada tipo de geometria e operação (Carga e Recuperação) [clique aqui](https://github.com/WeDias/ShapeTP/edit/Entrega3/AMOSTRAS.md).
 
 #### Shapefile para PostgreSQL/PostGIS (Polígono)
 ![poligono](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/ShapeToPost/poligono.gif)  
