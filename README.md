@@ -1,7 +1,14 @@
 # ![logo](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/logo.png)
 
-## ![solu](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/Solu.png)  
+## ![solu](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/Solu.png)
+**A seguir será apresentado duas amostras do funcionamento do programa,
+para visualizar todos os GIFs de exucação para cada tipo de geometria e operação (Carga e Recuperação) [clique aqui](https://github.com/WeDias/ShapeTP/edit/Entrega3/AMOSTRAS.md).**
 
+#### Shapefile para PostgreSQL/PostGIS (Polígono)
+![poligono](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/ShapeToPost/poligono.gif)  
+
+#### PostgreSQL/PostGIS para Shapefile (Linha)
+![linha](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/PostToShape/linha.gif)  
 
 ### Tecnologias usadas
 * Java
@@ -16,6 +23,8 @@
 * [Backlog](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/Backlog.pdf)
 * [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/User%20Story.png)
 * [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/UseCase.pdf)
+* [Wireframes](https://github.com/WeDias/ShapeTP/tree/Entrega3/Documenta%C3%A7%C3%A3o/Wireframes)
+* Gráfico Burndown
 
 ###### Entregas anteriores
 * [Entrega 1](https://github.com/WeDias/ShapeTP/tree/Entrega1)
