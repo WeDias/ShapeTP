@@ -31,7 +31,7 @@ para visualizar todos os GIFs de exucação para cada tipo de geometria e opera�
 * [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/User%20Story.png)
 * [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/UseCase.pdf)
 * [Wireframes](https://github.com/WeDias/ShapeTP/tree/Entrega3/Documenta%C3%A7%C3%A3o/Wireframes)
-* Gráfico Burndown
+* [Gráfico Burndown](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/Burndown.pdf)
 
 ###### Entregas anteriores
 * [Entrega 1](https://github.com/WeDias/ShapeTP/tree/Entrega1)
