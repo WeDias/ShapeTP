@@ -9,7 +9,7 @@ Com relação a interface foi adicionada tela de carregamento e a remoção da t
 gerados depois da adição da parametrização, na entrega2.  
 
 A seguir será apresentado duas amostras do funcionamento do programa,
-para visualizar todos os GIFs de exucação para cada tipo de geometria e operação (Carga e Recuperação) [clique aqui](https://github.com/WeDias/ShapeTP/blob/Entrega3/AMOSTRAS.md).
+para visualizar todos os GIFs de execução para cada tipo de geometria e operação (Carga e Recuperação) [clique aqui](https://github.com/WeDias/ShapeTP/blob/Entrega3/AMOSTRAS.md).
 
 #### Shapefile para PostgreSQL/PostGIS (Polígono)
 ![poligono](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/ShapeToPost/poligono.gif)  
