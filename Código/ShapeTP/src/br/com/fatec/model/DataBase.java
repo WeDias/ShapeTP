@@ -36,9 +36,13 @@ public class DataBase {
         }
     }
     
+    public void dropTable(final String s) throws SQLException {
+    	this.stmt.executeUpdate(String.format("DROP TABLE fatecsjc.\"%s\"", s));
+    }
+    
     public void insertInto(final String t, final String tCol, final String sCol, final String s) throws SQLException {
         this.stmt.executeUpdate(String.format("INSERT INTO fatecsjc.\"%s\" (%s) SELECT %s FROM fatecsjc.\"%s\"", t, tCol, sCol, s));
-        this.stmt.executeUpdate(String.format("DROP TABLE fatecsjc.\"%s\"", s));
+        dropTable(s);
     }
     
     public ArrayList<String> getTables() throws SQLException {

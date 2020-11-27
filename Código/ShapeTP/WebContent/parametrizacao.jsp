@@ -81,7 +81,7 @@
                 String campoAlvo = String.format("<label class=\"label-campo\">%s</label>", campo);
                 String tipoAlvo = (String)lstAlvo.get(1).get(c);
                 out.print(campoAlvo);
-                out.print(String.format("<select class=\"select-campo\" name=\"%s\" required>", lstAlvo.get(0).get(c)));
+                out.print(String.format("<select class=\"select-campo\" name=\"%s\">", lstAlvo.get(0).get(c)));
                 for (int j = 0; j < lstCorresp.get(0).size(); j++){
                     String campoCorresp = lstCorresp.get(0).get(j) + " [" + lstCorresp.get(1).get(j) + "]";
                     String tipoCorresp = (String)lstCorresp.get(1).get(j);

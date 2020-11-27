@@ -5,6 +5,7 @@ import java.sql.SQLException;
 import br.com.fatec.model.DataBase;
 import java.util.ArrayList;
 import java.io.IOException;
+
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpServletRequest;
@@ -26,18 +27,27 @@ public class ShapeToPost extends HttpServlet {
             sLst.add(request.getParameter(key));
             tLst.add(key);
         }
-        final HttpSession session = request.getSession();
-        final String tCol = String.join(", ", tLst);
-        final String sCol = String.join(", ", sLst);
-        final String s = session.getAttribute("Arquivo").toString();
-        final String t = session.getAttribute("Alvo").toString();
         try {
+        	final HttpSession session = request.getSession();
             final DataBase db = new DataBase();
-            db.insertInto(t, tCol, sCol, s);
+            final String s = session.getAttribute("Arquivo").toString();
+            final String t = session.getAttribute("Alvo").toString();
+            @SuppressWarnings("unchecked")
+			ArrayList<String> comp = db.getColumns(t).get(0);
+            if(comp.size() == tLst.size()) {
+                final String tCol = String.join(", ", tLst);
+                final String sCol = String.join(", ", sLst);
+            	db.insertInto(t, tCol, sCol, s);
+            	response.sendRedirect("/op/sucesso.html");
+            }
+            else {
+            	db.dropTable(s);
+            	response.sendRedirect("/op/falha.html");
+            }
         }
         catch (ClassNotFoundException | SQLException e) {
             e.printStackTrace();
+            response.sendRedirect("/op/falha.html");
         }
-        response.sendRedirect("/op/sucesso.html");
     }
 }
