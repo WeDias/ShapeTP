@@ -1,9 +1,9 @@
 # ![logo](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/logo.png)
 
-## ![solu]()
+## ![solu](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/Solu.png)
 
 ### Realizado nesta sprint
-![cards](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/cards.png)  
+![cards]()  
 De forma geral, nesta sprint o foco foi em melhorar mais um pouco a interface gráfica na questão dos erros.
 Com relação a interface foi adicionada a tela de erro quando o usuário tentar carregar um shapefile sem selecionar todos os campos, evitando de incluir no banco de dados registros incompletos que anteriormente era possível.  
 Como os objetivos de maior valor já foram entregues(carga-parametrização-recuperação) optamos em melhorar a interface evitando futuros problemas com registros incompletos dentro  do banco de dados causados pela aplicação.
@@ -12,7 +12,7 @@ A seguir será apresentado três amostras do funcionamento do programa,
 para visualizar todos os GIFs de execução para cada tipo de geometria e operação (Carga e Recuperação) [clique aqui](https://github.com/WeDias/ShapeTP/blob/Entrega3/AMOSTRAS.md).
 
 #### Testando a nova funcionalidade
-![]()
+![teste](https://github.com/WeDias/ShapeTP/blob/Entrega4/Ignorar/Img/teste.gif)
 
 #### Shapefile para PostgreSQL/PostGIS (Polígono)
 ![poligono](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/ShapeToPost/poligono.gif)  
