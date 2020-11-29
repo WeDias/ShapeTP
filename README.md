@@ -3,7 +3,7 @@
 ## ![solu](https://github.com/WeDias/ShapeTP/blob/Entrega3/Ignorar/Img/Solu.png)
 
 ### Realizado nesta sprint
-![cards]()  
+![cards](https://github.com/WeDias/ShapeTP/blob/Entrega4/Documenta%C3%A7%C3%A3o/Card1.png)  
 De forma geral, nesta sprint o foco foi em melhorar mais um pouco a interface gráfica na questão dos erros.
 Com relação a interface foi adicionada a tela de erro quando o usuário tentar carregar um shapefile sem selecionar todos os campos, evitando de incluir no banco de dados registros incompletos que anteriormente era possível.  
 Como os objetivos de maior valor já foram entregues(carga-parametrização-recuperação) optamos em melhorar a interface evitando futuros problemas com registros incompletos dentro  do banco de dados causados pela aplicação.
@@ -30,8 +30,8 @@ para visualizar todos os GIFs de execução para cada tipo de geometria e opera�
 ## ![util](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/Util.png)
 ###### ShapeTP
 * [Código fonte](https://github.com/WeDias/ShapeTP/tree/Entrega4/C%C3%B3digo/ShapeTP)
-* [Backlog](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/Backlog.pdf) *
-* [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/User%20Story.png) *
+* [Backlog](https://github.com/WeDias/ShapeTP/blob/Entrega4/Documenta%C3%A7%C3%A3o/Backlog.pdf)  
+* [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega4/Documenta%C3%A7%C3%A3o/Cards.png)  
 * [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/UseCase.pdf)
 * [Wireframes](https://github.com/WeDias/ShapeTP/tree/Entrega3/Documenta%C3%A7%C3%A3o/Wireframes)
 * [Gráfico Burndown](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/Burndown.pdf) *
