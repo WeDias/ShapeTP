@@ -34,12 +34,12 @@ para visualizar todos os GIFs de execução para cada tipo de geometria e opera�
 * [Cards da sprint](https://github.com/WeDias/ShapeTP/blob/Entrega4/Documenta%C3%A7%C3%A3o/User%20Story.png)  
 * [Diagrama de caso de uso](https://github.com/WeDias/ShapeTP/blob/Entrega2/Documenta%C3%A7%C3%A3o/UseCase.pdf)
 * [Wireframes](https://github.com/WeDias/ShapeTP/tree/Entrega3/Documenta%C3%A7%C3%A3o/Wireframes)
-* [Gráfico Burndown](https://github.com/WeDias/ShapeTP/blob/Entrega3/Documenta%C3%A7%C3%A3o/Burndown.pdf) *
+* [Gráfico Burndown](https://github.com/WeDias/ShapeTP/blob/Entrega4/Documenta%C3%A7%C3%A3o/burndown.pdf)
 
 ###### Entregas anteriores
 * [Entrega 1](https://github.com/WeDias/ShapeTP/tree/Entrega1)
 * [Entrega 2](https://github.com/WeDias/ShapeTP/tree/Entrega2)
-* [Entrega 3](https://github.com/WeDias/ShapeTP/tree/Entrega2)
+* [Entrega 3](https://github.com/WeDias/ShapeTP/tree/Entrega3)
 
 ## ![time](https://github.com/WeDias/ShapeTP/blob/master/Ignorar/Img/time.png)
 * [Euclides Rezende](https://www.linkedin.com/in/euclides-rezende-0940458/) - Product Owner
